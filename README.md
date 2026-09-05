@@ -149,7 +149,7 @@ Compatibility still depends on the exact:
 ## 🚀 Installation
 
 1. Download the latest release from **[Releases](../../releases)**.
-2. Open **Magisk**.
+2. Open **Magisk/KernelSU**.
 3. Go to **Modules**.
 4. Choose **Install from storage**.
 5. Select the `SamFullAOD` ZIP.
