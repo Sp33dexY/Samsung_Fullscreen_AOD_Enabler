@@ -97,7 +97,7 @@ A separate module, **AODInterfaceRestore**, is included for restoring the normal
 
 **1. Disable the main `SamFullAOD` module.**
 
-**2. Install `AODInterfaceRestore.zip`.**
+**2. Install `AOD_Restore.zip`.**
 
 **3. Perform a soft / userspace reboot.**
 
@@ -199,7 +199,7 @@ Download the latest version here:
 The release may contain:
 
 - `SamFullAOD` — main AOD Enabler module
-- `AODInterfaceRestore` — runtime restore module
+- `AOD_Restore` — runtime restore module
 
 ---
 
