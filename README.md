@@ -139,10 +139,10 @@ Compatibility still depends on the exact:
 
 | Device | One UI | Status |
 |---|---|---|
-| Galaxy S23 | — | Working ✅️ |
-| Galaxy S22 | — | Working ✅️ |
-| Galaxy S21 | — | Working ✅️ |
-| Galaxy S20 | — | Working ✅️ |
+| Galaxy S23 | 8.x | Working ✅️ |
+| Galaxy S22 | 8.x | Working ✅️ |
+| Galaxy S21 | 7.x | Working ✅️ |
+| Galaxy S20 | 5.x | Working ✅️ |
 
 ---
 
