@@ -91,7 +91,7 @@ This is especially useful for devices where the bootloader cannot be permanently
 
 ## ♻️ Restoring the Stock Interface
 
-A separate module, **AODInterfaceRestore**, is included for restoring the normal system state without requiring a full reboot.
+A separate module, **AODRestore**, is included for restoring the normal system state without requiring a full reboot.
 
 ### Recommended procedure
 
